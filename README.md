@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SOL Stadium - World Cup Betting
 
 A Solana-powered World Cup betting platform. Pick a team, bet SOL, and win against random opponents.
@@ -213,3 +214,6 @@ Need help? Check:
 **Deployed site will be live at:** `https://your-app-name.vercel.app`
 
 Good luck! 🚀
+=======
+# solstadium
+>>>>>>> e43c607ed6c33f92f1970940a936ca5720d438dc
